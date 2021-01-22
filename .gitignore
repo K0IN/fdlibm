@@ -1,10 +1,7 @@
-5475.hard-float
-68000.soft-float
-68020-60.68881
-config.cache
-config.log
-config.status
-Makefile
+*.o
 *~
-*.ttp
-*.log
+*.a
+*.dll*
+*.so*
+*.dylib*
+*.pc
